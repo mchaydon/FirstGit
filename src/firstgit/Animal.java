@@ -10,5 +10,5 @@ package firstgit;
  * @author Mike
  */
 public class Animal {
-    
+    private int age;
 }
